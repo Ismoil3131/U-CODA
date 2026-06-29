@@ -155,15 +155,6 @@ ul {
     height: 66px;
 }
 
-.play_text {
-
-}
-
-.hero_img {
-
-}
-
-
 /* companies */
 
 .companies {
@@ -354,11 +345,6 @@ ul {
     align-items: center;
     gap: 10px;
 }
-
-.mentor_avatar {
-
-}
-
 .mentor_info p {
     font-size: 20px;
     font-weight: 700;
@@ -391,11 +377,6 @@ ul {
 /* feedbacks */
 .feedback {
     display: flex;
-
-}
-
-.feedback .container {
-
 }
 
 .feedback_cards {
@@ -482,9 +463,7 @@ ul {
 
 
 /* sign up */
-.sign_up {
-    
-}
+
 
 .sign_up.container {
     display: flex;
